@@ -1,1 +1,0 @@
-# car_resell
